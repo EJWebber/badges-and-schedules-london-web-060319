@@ -7,4 +7,3 @@ end
 def batch_badge_creator(speakers)
   array.each(|x| puts badge_maker(x))
 end
-end
